@@ -8,12 +8,6 @@
 1. インストール
 
 ```bash
-composer install --prefer-dist --no-dev
-```
-
-このプロジェクトを作成時は以下コマンド
-
-```bash
 composer create-project -n bear/skeleton app --prefer-dist --no-dev
 ```
 
